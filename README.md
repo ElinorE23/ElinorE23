@@ -2,10 +2,11 @@
 
 ## Skills
 * Python
-* SQL
+* MySQL
 * CSS
 * HTML
 * JavaScript
+* OOP
 
 ## Projects:
 * Recipeasy Web App - A collaborative project to help parents engage their children (ages 4-8) in cooking while suggesting recipes based on available ingredients. Using Python (Flask), MySQL, HTML, CSS, Jinja 2 Template, integrated Edamam API. Components included a recipe search using up to 5 ingredients in the house and a multiple choice educational quiz.
