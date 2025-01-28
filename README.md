@@ -2,6 +2,10 @@
 
 ## Skills
 * Python
+* SQL
+* CSS
+* HTML
+* JavaScript
 <!--
 **ElinorE23/ElinorE23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
