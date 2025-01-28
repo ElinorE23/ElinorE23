@@ -7,7 +7,7 @@
 * HTML
 * JavaScript
 
-## Project:
+## Projects:
 * Recipeasy Web App - A collaborative project to help parents engage their children (ages 4-8) in cooking while suggesting recipes based on available ingredients. Using Python (Flask), MySQL, HTML, CSS, Jinja 2 Template, integrated Edamam API. Components included a recipe search using up to 5 ingredients in the house and a multiple choice educational quiz.
 * A book recommendations website on codepen using HTML, CSS and JavaScript.
 * In a collaborative project we created a library management system using Flask API and SQL database, that allows user inputs, for managing book transactions (borrowing, returning, accessing catalogue).
