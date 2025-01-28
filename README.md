@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my coding journey!
 
 ## Skills
+* Python
 <!--
 **ElinorE23/ElinorE23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
